@@ -28,3 +28,12 @@ eléctricas en la línea de interconexión Cauca-Nariño.
 | 1. Diseñar el sistema de reacudo de información | 1.       |          |          |          |
 | 2. Desarrollar el Algoritmo en Python           |          |    2.    |    2.    |          |
 | 3. Implementar el Sistema                       |          |          |          |     3.   |
+
+# Presupuesto 
+
+| Actividades                                       | Presupuesto (COP) | 
+|---------------------------------------------------|-------------------|
+| 1. Diseñar el sistema de reacudo de información   | $598.000          | 
+| 2. Desarrollar el Algoritmo en Python             | $1´196.000        | 
+| 3. Implementar el Sistema                         | $598.000          | 
+
