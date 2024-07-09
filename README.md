@@ -15,7 +15,7 @@ retrasando los cálculos de los indicadores de Calidad del servicio
 Optimizar el recaudo de información de las interrupciones de energía 
 eléctricas en la línea de interconexión Cauca-Nariño.
 
-## Especificos:
+## Especifico:
 
 - Diseñar un sistema de recaudo de información por medio de Google Forms
 - Desarrollar un algoritmo en Python que genere estadisticas sobre la calidad del servicio.
